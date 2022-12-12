@@ -1,14 +1,11 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "Home"
+title: "Accueil"
 ---
 
-Welcome to **Cupper**: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project. Here are some of its features:
+Bienvenue sur mon blog LabVeilleTech autour des l'utilisation des données dans le monde du sport.'
 
 {{< ticks >}}
-* Screen reader and keyboard accessible
+* Utilisation des données dans le sport
 * Responsive
-* Numerous shortcodes
-* Toggleable dark theme
-* Toggleable table of contents per blog post
 {{< /ticks >}}

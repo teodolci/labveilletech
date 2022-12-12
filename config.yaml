@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Teo Dolci
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
@@ -17,8 +17,8 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  description: Bienvenue sur mon site.
+  homeMetaContent: Hello world.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
@@ -26,10 +26,10 @@ params:
   katex: true
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: true
+  showThemeSwitcher: false
   defaultDarkTheme: false
   moveFooterToHeader: false
-  # navTitleText: Cupper Theme
+  navTitleText: Data dans le sport
   logoAlt: An alternative text description of the logo
   customCss:
     - css/custom_01.css
@@ -44,21 +44,21 @@ params:
 
 menu:
   nav:
-    - name: Home
+    - name: Accueil
       url: /
       weight: 1
-    - name: Blog
+    - name: Articles
       url: /post/
       weight: 2
-    - name: Tags
-      url: /tags/
-      weight: 3
-    - name: About
+    # - name: Tags
+    #   url: /tags/
+    #   weight: 3
+    - name: À propos
       url: /about/
       weight: 4
-    - name: RSS
-      url: /index.xml
-      weight: 5
+    # - name: RSS
+    #   url: /index.xml
+    #   weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
