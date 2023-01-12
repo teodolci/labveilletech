@@ -1,7 +1,6 @@
 ---
-date: "2022-12-31"
 title: "Introduction"
-order: 1
+date: "2022-01-19"
 ---
 
 ## Commençons par le début
