@@ -7,6 +7,8 @@ Je m'appelle Teo Dolci et je suis actuellement à la [Haute École d'Ingénieuri
 
 ## Mon Ikigai
 
+![Ex_Ikigai](/Ex_Ikigai.jpg)
+
 ## Mon domaine
 
 ### Data miner / analyst / scientist dans le sport d’équipe (Hockey sur glace, football, etc…)
