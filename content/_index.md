@@ -9,6 +9,7 @@ Voici une liste de clubs de football professionnels connus pour leur utilisation
 
 FC Barcelone
 Tottenham Hotspur
+Toulouse FC
 Schalke 04
 Brentford FC
 Bayern Munich
