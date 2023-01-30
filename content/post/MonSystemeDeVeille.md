@@ -24,4 +24,5 @@ La Formule 1 est, elle, en pause hivernale. Cependant, en sous-marin, il s'agit 
 
 Mes objectifs étaient de réaliser un article global sur le sujet F1. Les ingénieurs étant des personnes de l'ombre dans ce sport alors qu'ils sont primordiaux. Étant tout de même plus "expert" autour du football, j'ai décidé de réaliser un article sur le FC Brendford, club qui a fait une saison exceptionnelle en 2020-2021, ainsi que sur le Toulouse FC, club qui a fait son retour en Ligue 1 en 2022-2023. Enfin, j'ai voulu réaliser un article sur les sociétés ayant un rôle majeur dans l'analyse des données dans le sport, afin de montrer l'importance de ces dernières dans le sport en général.
 
-À cela s'ajouteront ce même article sur mon précédé ainsi qu'un article d'expérimentation.
+À cela s'ajoutera un article d'expérimentation dans lequel je me serai mis dans la peau d'un recruteur du Toulouse FC.
+

@@ -13,7 +13,7 @@ Alors j'ai voulu me prendre au jeu et voir si je pouvais trouver des joueurs qui
 
 J'ai choisi de me concentrer sur le championnat croate, car il est moins connu que les championnats anglais, espagnol, allemand, italien, français, etc… et donc les joueurs sont moins chers. J'ai également choisi de me concentrer sur les joueurs de moins de 25 ans car ils ont encore un potentiel de développement.
 
-### Quelles données ai-je utilisées ?
+### La 1. HNL, ou le championnat croate 
 
 Tout d'abord, je suis allé voir le classement du championnat :
 1. Dinamo Zagreb
@@ -52,3 +52,10 @@ Cette expérience m'a permis de me pencher plus précisémment sur le système d
 Ainsi, suite à cette expérience, je conseille au TéFéCé de se pencher sur ce désormais fameux (au moins, nous sommes quelques-uns à désormais le connaître par chez nous) Tonio Teklić ! 
 
 Et si le TéFéCé rate la coche, j'espère qu'il fera les grands jours du Lausanne-Sports prochainement !
+
+#### sources :
+eurosport.fr<br>
+transfermarkt.com <br>
+comparisonator.com<br>
+matchendirect.fr<br>
+wikipedia.org<br>

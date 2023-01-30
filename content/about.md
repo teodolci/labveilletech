@@ -11,6 +11,8 @@ Je m'appelle Teo Dolci et je suis actuellement à la [Haute École d'Ingénieuri
 
 ## Mon domaine
 
+Ce qui suit est un résumé de mon domaine de recherche. Il s'agit des notes réalisées lors des deux premiers cours et destinées à guider mes recherches.
+
 ### Data miner / analyst / scientist dans le sport d’équipe (Hockey sur glace, football, etc…)
 
 ### Mots-clés
