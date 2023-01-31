@@ -7,7 +7,8 @@ Je m'appelle Teo Dolci et je suis actuellement à la [Haute École d'Ingénieuri
 
 ## Mon Ikigai
 
-![Ex_Ikigai](/images/Ex_Ikigai.jpg)
+![Ex_Ikigai](/labveilletech/static/images/Ex_Ikigai.jpg)
+
 
 ## Mon domaine
 
