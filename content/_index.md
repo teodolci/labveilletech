@@ -5,19 +5,19 @@ title: "Accueil"
 
 Bienvenue sur mon blog LabVeilleTech autour des l'utilisation des données dans le monde du sport. Vous trouverez ici des articles sur les tendances et les avancées dans l'utilisation des données dans le sport, ainsi que sur les implications éthiques et les défis liés à l'analyse de ces données.
 
-Voici une liste de clubs de football professionnels connus pour leur utilisation des données :
+Voici une liste de clubs de football professionnels connus pour leur utilisation avancées des données :
 
-FC Barcelone
-Tottenham Hotspur
-Toulouse FC
-Schalke 04
-Brentford FC
-Bayern Munich
-R.S.C Anderlecht
-Manchester City
-Liverpool FC
-AS Monaco
-RB Leipzig
+- FC Barcelone
+- Tottenham Hotspur
+- Toulouse FC
+- Schalke 04
+- Brentford FC
+- Bayern Munich
+- R.S.C Anderlecht
+- Manchester City
+- Liverpool FC
+- AS Monaco
+- RB Leipzig
 
 Cependant il faut noter que beaucoup de clubs professionnels utilisent des données dans leur stratégie, cette liste est non-exhaustive, ces clubs sont juste ceux qui ont été particulièrement connus pour leur utilisation des données.
 
